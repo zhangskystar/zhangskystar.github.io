@@ -1,2 +1,1 @@
-# zhangskystar.github.io
-my blogs
+我的博客
